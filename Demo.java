@@ -24,7 +24,7 @@ public class Demo {
         System.out.println();
         // Loop
         for (int i=0; i <20; i++) {
-            System.out.println( "Rolling the  dice...");
+            System.out.println( "Rolling the  dice..."); 
             int roll = roll ();
             System.out.println("You rolled a: " + roll ); 
         }
